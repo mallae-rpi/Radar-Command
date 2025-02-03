@@ -27,7 +27,7 @@ Players control a crosshair on the radar screen, moving it to intercept incoming
     ```
 3. Change directory:
    ```sh
-    cd src
+   cd src
     ```
 5. Run the game:
     ```sh
