@@ -1,5 +1,7 @@
 # Radar Command
 
+![Radar Command](images/Radar%20Command.png)
+
 ## Overview
 Radar Command is a retro-inspired game that simulates Cold War-era radar defense systems. Players must track and intercept incoming missiles on an oscilloscope-like radar screen. The game is heavily inspired by early warning networks and the limitations of vintage analog systems, drawing inspiration from early video games like *Tennis for Two*.
 
