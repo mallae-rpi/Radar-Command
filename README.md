@@ -25,7 +25,11 @@ Players control a crosshair on the radar screen, moving it to intercept incoming
    ```sh
    pip install pygame
     ```
-3. Run the game:
+3. Change directory:
+   ```sh
+    cd src
+    ```
+5. Run the game:
     ```sh
     python main.py
     ```
